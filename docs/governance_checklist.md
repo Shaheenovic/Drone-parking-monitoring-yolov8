@@ -7,6 +7,7 @@ This project is an academic YOLOv8 prototype for drone-based parking occupancy m
 ## Data Source and Rights
 
 - **Dataset source:** Roboflow Universe project: Drone Parking Monitoring YOLOv8.
+- **Roboflow Universe link:** https://universe.roboflow.com/eng-ahmed_shaheen-hotmail-com/drone-parking-monitoring-yolov8
 - **Original dataset format:** Aerial or high-angle parking-area images with object-detection annotations.
 - **Dataset version used:** Version 1 – Clean 80/20 Baseline.
 - **Dataset redistribution:** The frozen dataset export is published as a GitHub Release asset for keyless reproducibility.
