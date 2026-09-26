@@ -25,7 +25,7 @@ Detailed label rules: [`docs/class_definitions.md`](docs/class_definitions.md)
 - Split: 401 training images and 94 validation images
 - Dataset source: [Roboflow Universe dataset](https://universe.roboflow.com/eng-ahmedshaheen-hotmail-com/drone-parking-monitoring-yolov8/dataset/1)
 - Dataset documentation: [`docs/dataset_documentation.md`](docs/dataset_documentation.md)
-- Dataset release asset: `drone-parking-v1-yolo11.zip`
+- Dataset release asset: `drone-parking-v1-yolo11.zip` (release `v1.0`)
 - SHA256: `3f9e38e8ae7f7725f19f5f120165a1f19e8a54808d27690648a530cfb6b12999`
 
 ## Model and Training
