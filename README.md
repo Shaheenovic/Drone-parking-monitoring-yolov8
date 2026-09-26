@@ -39,6 +39,12 @@ Detailed label rules: [`docs/class_definitions.md`](docs/class_definitions.md)
 - Hardware: NVIDIA Tesla T4 GPU in Google Colab
 - Ultralytics version: 8.4.163
 
+## Trained Weights
+
+- Best model checkpoint: [`best.pt`](https://github.com/Shaheenovic/Drone-parking-monitoring-yolov8/releases/download/v2.0/best.pt)
+- Model release: [YOLOv8n trained model v2.0](https://github.com/Shaheenovic/Drone-parking-monitoring-yolov8/releases/tag/v2.0)
+- Checkpoint size: 5.96 MB
+
 ## Results
 
 Validation performance using the best trained checkpoint:
